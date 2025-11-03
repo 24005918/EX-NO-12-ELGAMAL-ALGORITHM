@@ -83,7 +83,13 @@ int main() {
 }
 ```
 
+
+
+
+
+
 ## Output:
+
 ![exp-12](https://github.com/user-attachments/assets/b9fe6aca-57f4-47a2-ba8d-9c9cbe48e8c9)
 
 ## Result:
